@@ -34,4 +34,4 @@ A aplicação irá solicitar um inteiro que o usuário deve digitar. Após isso 
 
 ---
 
-==ao final do código foi adicionado o comando ReadKey() para o usuário visualizar o retorno da aplicação antes do seu encerramento.==
+== ao final do código foi adicionado o comando ReadKey() para o usuário visualizar o retorno da aplicação antes do seu encerramento. ==
