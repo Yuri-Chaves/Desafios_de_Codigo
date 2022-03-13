@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\bin\Debug\net6.0\triangulo_trapezio.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\bin\Debug\net6.0\triangulo_trapezio.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\bin\Debug\net6.0\triangulo_trapezio.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\bin\Debug\net6.0\triangulo_trapezio.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\bin\Debug\net6.0\triangulo_trapezio.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\refint\triangulo_trapezio.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\triangulo_trapezio.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\triangulo_trapezio\obj\Debug\net6.0\ref\triangulo_trapezio.dll

@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\bin\Debug\net6.0\mes.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\bin\Debug\net6.0\mes.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\bin\Debug\net6.0\mes.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\bin\Debug\net6.0\mes.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\bin\Debug\net6.0\mes.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\refint\mes.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\mes.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\mes\obj\Debug\net6.0\ref\mes.dll

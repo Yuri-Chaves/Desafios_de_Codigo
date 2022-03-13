@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\bin\Debug\net6.0\potenciacao.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\bin\Debug\net6.0\potenciacao.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\bin\Debug\net6.0\potenciacao.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\bin\Debug\net6.0\potenciacao.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\bin\Debug\net6.0\potenciacao.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\refint\potenciacao.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\potenciacao.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\potenciacao\obj\Debug\net6.0\ref\potenciacao.dll

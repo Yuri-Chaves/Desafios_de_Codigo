@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\bin\Debug\net6.0\lista_organizada.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\bin\Debug\net6.0\lista_organizada.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\bin\Debug\net6.0\lista_organizada.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\bin\Debug\net6.0\lista_organizada.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\bin\Debug\net6.0\lista_organizada.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\refint\lista_organizada.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\lista_organizada.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\lista_organizada\obj\Debug\net6.0\ref\lista_organizada.dll

@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\bin\Debug\net6.0\decompor_cedulas.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\bin\Debug\net6.0\decompor_cedulas.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\bin\Debug\net6.0\decompor_cedulas.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\bin\Debug\net6.0\decompor_cedulas.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\bin\Debug\net6.0\decompor_cedulas.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\refint\decompor_cedulas.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\decompor_cedulas.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafios_de_Codigo\decompor_cedulas\obj\Debug\net6.0\ref\decompor_cedulas.dll
