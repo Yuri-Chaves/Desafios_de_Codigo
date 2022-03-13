@@ -16,7 +16,7 @@ Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo
 &NewLine;
 Perimetro = XX.X
 &NewLine;
-Em caso negativo, calcule a área do trapézio que tem A e B como base e C como altura,mostrando a mensagem:
+Em caso negativo, calcule a área do trapézio que tem A e B como base e C como altura, mostrando a mensagem:
 &NewLine;
 Area = XX.X
 ---
@@ -37,7 +37,7 @@ Area = XX.X
 
 &NewLine;
 
-A aplicação irá solicitar três valores double que o usuário deve digitar ==separados por espaços e utilizndo o ponto como separador de casa decimal==. Após isso a aplicação ralizará o cálculo para descobrir se é um triângulo ou um trapézio e retornará o Perímetro em caso de ser um triângulo ou a Área em caso de ser um trapézio.
+A aplicação irá solicitar três valores double que o usuário deve digitar ==separados por espaços e utilizando o ponto como separador de casa decimal==. Após isso a aplicação realizará o cálculo para descobrir se é um triângulo ou um trapézio e retornará o Perímetro em caso de ser um triângulo ou a Área em caso de ser um trapézio.
 
 ---
 
