@@ -35,7 +35,7 @@ A primeira linha de entrada contém um inteiro N (N < 100) com a quantidade de c
 
 &NewLine;
 
-A aplicação inicialmente irá solicitar um valor inteiro que o usuário deve digitar para representar o número de listas que deve verificar. Após isso o usuário deve digitar todos os itens de cada lista ==searados por espaços== e em letras ==minúsculas== e pressionar enter, a aplicação retornará a lista organizada e então, em caso de mais de uma lista, o usuário deve repetir o processo.
+A aplicação inicialmente irá solicitar um valor inteiro que o usuário deve digitar para representar o número de listas que deve verificar. Após isso o usuário deve digitar todos os itens de cada lista ==separados por espaços== e em letras ==minúsculas== e pressionar enter, a aplicação retornará a lista organizada e então, em caso de mais de uma lista, o usuário deve repetir o processo.
 
 ---
 
